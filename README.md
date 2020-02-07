@@ -1,7 +1,7 @@
 # Geogebra
 Geogebra based projects
 
-**·[Parabola](https://www.geogebra.org/graphing/rzgkaw2m)**: Simple way to visualize a parabola.
+**·[Parabola](https://www.geogebra.org/graphing/rzgkaw2m)**: Simple way to visualize a parabola and rotate it.
   
     Defined by:
   
@@ -12,9 +12,10 @@ Geogebra based projects
   *More information on [Wikipedia](https://en.wikipedia.org/wiki/Parabola)*
 
 
-
 **·[3D_Shapes](https://www.geogebra.org/3d/cjwuydqx): Simple way to visualize:
     
     Sphere, Ellipsoid, HyperbolicParaboloid,
     HyperboloidOneSheet,HyperboloidTwoSheets, EllipticParaboloid.
+    
+  *It uses the same notation as the parabola*
     
