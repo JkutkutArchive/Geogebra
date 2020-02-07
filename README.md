@@ -1,7 +1,7 @@
 # Geogebra
 Geogebra based projects
 
-**·[Parabola](https://www.geogebra.org/m/jtdkyccy)**: (soon) Simple way to visualize a parabola.
+**·[Parabola](https://www.geogebra.org/graphing/rzgkaw2m)**: Simple way to visualize a parabola.
   
     Defined by:
   
