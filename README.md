@@ -10,3 +10,11 @@ Geogebra based projects
     -p = distance from V to the focus (F) or to the diretrix (D).
   
   *More information on [Wikipedia](https://en.wikipedia.org/wiki/Parabola)*
+
+
+
+**· [3D_Shapes](https://www.geogebra.org/3d/cjwuydqx): Simple way to visualize:
+    
+    Sphere, Ellipsoid, HyperbolicParaboloid,
+    HyperboloidOneSheet,HyperboloidTwoSheets, EllipticParaboloid.
+    
