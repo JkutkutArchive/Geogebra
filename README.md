@@ -5,7 +5,7 @@ Geogebra based projects
   
     Defined by:
   
-    -a = angle of rotation
+    -α = angle of rotation
     -(h,k) = vertex's coordinates V = (h,k).
     -p = distance from V to the focus (F) or to the diretrix (D).
   
