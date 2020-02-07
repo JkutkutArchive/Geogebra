@@ -13,7 +13,7 @@ Geogebra based projects
 
 
 
-** ·[3D_Shapes](https://www.geogebra.org/3d/cjwuydqx): Simple way to visualize:
+**·[3D_Shapes](https://www.geogebra.org/3d/cjwuydqx): Simple way to visualize:
     
     Sphere, Ellipsoid, HyperbolicParaboloid,
     HyperboloidOneSheet,HyperboloidTwoSheets, EllipticParaboloid.
