@@ -18,4 +18,6 @@ Geogebra based projects
     HyperboloidOneSheet,HyperboloidTwoSheets, EllipticParaboloid.
     
   *It uses the same notation as the parabola*
+  
+**·[Tanget plane to eliptic paraboloid](https://www.geogebra.org/3d/s4kmvmvf)
     
