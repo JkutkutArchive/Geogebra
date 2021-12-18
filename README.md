@@ -1,6 +1,8 @@
 # Geogebra
 Geogebra based projects
 
+**·[Ellipse ecuations](https://www.geogebra.org/m/vdbg96xr)**: Visual way to see the ecuations that define the shape of an ellipse.
+
 **·[Parabola](https://www.geogebra.org/graphing/rzgkaw2m)**: Simple way to visualize a parabola and rotate it.
   
     Defined by:
